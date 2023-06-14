@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background:'';
+}
+.pas{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin: 30px;
+}
+.pas img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+h1{
+    margin: 20px;
+}
+p{
+    margin: 10px;
+}
+h2{
+    margin: 20px;
+}
+h3{
+    margin: 20px;
+}
+.t{
+    margin: 30px;
+}
